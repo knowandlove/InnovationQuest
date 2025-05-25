@@ -1,0 +1,1508 @@
+ Replit version d8a97c65, pid2 version 0.0.1337
+ 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ [LaunchDarkly] LaunchDarkly client initialized
+ [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MzA5Nzg5MCIsImtpbmQiOiJ1c2VyIiwiYW5vbnltb3VzIjpmYWxzZX0
+ [LaunchDarkly] Closing stream connection
+ [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MzA5Nzg5MCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6Imtub3dhbmRsb3ZlIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiamFzb25Aa25vd2FuZGxvdmUuY29tIiwidGltZV9jcmVhdGVkIjoxNzQ4MTUzMDcyNjg1LCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+/usage:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ [LaunchDarkly] Closing stream connection
+ [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MzA5Nzg5MCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6Imtub3dhbmRsb3ZlIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiamFzb25Aa25vd2FuZGxvdmUuY29tIiwidGltZV9jcmVhdGVkIjoxNzQ4MTUzMDcyNjg1LCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+ [LaunchDarkly] Closing stream connection
+ [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MzA5Nzg5MCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6Imtub3dhbmRsb3ZlIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiamFzb25Aa25vd2FuZGxvdmUuY29tIiwidGltZV9jcmVhdGVkIjoxNzQ4MTUzMDcyNjg1LCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+ [LaunchDarkly] Closing stream connection
+ [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MzA5Nzg5MCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6Imtub3dhbmRsb3ZlIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiamFzb25Aa25vd2FuZGxvdmUuY29tIiwidGltZV9jcmVhdGVkIjoxNzQ4MTUzMDcyNjg1LCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'battery'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'layout-animations'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'navigation-override'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'oversized-images'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'publickey-credentials'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'speaker-selection'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'unoptimized-images'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'unsized-media'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Unrecognized feature: 'pointer-lock'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-f4c82a7a6faeabac.js:1
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-f4c82a7a6faeabac.js:1
+workspace_iframe.html:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+ WebSocket connection to 'wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/?token=_y2QRsxQzsIb' failed: 
+t @ eruda.js:2
+eruda.js:2 Uncaught (in promise) 
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+WebSocket connection to '<URL>' failed: WebSocket is closed before the connection is established.
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event
+Mt.forEach.n.<computed> @ eruda.js:2
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket connected
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+Console.js:61 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ Console.js:61
+ws.current.onerror @ use-websocket.ts:66
+Console.js:61 WebSocket disconnected
+Console.js:61 WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected
+ WebSocket connected
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ Attempting to connect to: wss://2b358f39-cf91-46e6-b97b-0c6e1ad4e536-00-1zy05x2e1krvk.riker.replit.dev/ws
+ WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+Mt.forEach.n.<computed> @ eruda.js:2
+ws.current.onerror @ use-websocket.ts:55
+ WebSocket disconnected
+ WebSocket disconnected

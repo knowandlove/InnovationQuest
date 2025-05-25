@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 250 100% 98%; /* #FAFAFA */
+  --foreground: 0 0% 13%; /* #212121 */
+  --muted: 240 5% 96%; /* #F2F2F7 */
+  --muted-foreground: 0 0% 56%; /* #8E8E93 */
+  --popover: 0 0% 100%;
+  --popover-foreground: 0 0% 13%;
+  --card: 0 0% 100%;
+  --card-foreground: 0 0% 13%;
+  --border: 0 0% 90%;
+  --input: 0 0% 90%;
+  --primary: 207 90% 54%; /* #1976D2 -> #007AFF */
+  --primary-foreground: 0 0% 100%;
+  --secondary: 249 54% 60%; /* #5856D6 */
+  --secondary-foreground: 0 0% 100%;
+  --accent: 24 100% 50%; /* #FF9500 */
+  --accent-foreground: 0 0% 100%;
+  --success: 145 63% 49%; /* #34C759 */
+  --success-foreground: 0 0% 100%;
+  --destructive: 0 100% 60%; /* #FF3B30 */
+  --destructive-foreground: 0 0% 100%;
+  --ring: 207 90% 54%;
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: 0 0% 11%;
+  --foreground: 0 0% 98%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 0 0% 64%;
+  --popover: 0 0% 11%;
+  --popover-foreground: 0 0% 98%;
+  --card: 0 0% 11%;
+  --card-foreground: 0 0% 98%;
+  --border: 0 0% 20%;
+  --input: 0 0% 20%;
+  --primary: 207 90% 54%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 249 54% 60%;
+  --secondary-foreground: 0 0% 100%;
+  --accent: 24 100% 50%;
+  --accent-foreground: 0 0% 100%;
+  --success: 145 63% 49%;
+  --success-foreground: 0 0% 100%;
+  --destructive: 0 100% 60%;
+  --destructive-foreground: 0 0% 100%;
+  --ring: 207 90% 54%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom styles for game components */
+.game-card {
+  @apply bg-card border border-border rounded-2xl shadow-sm;
+}
+
+.phase-indicator {
+  @apply flex items-center space-x-2;
+}
+
+.phase-indicator.active {
+  @apply text-primary;
+}
+
+.phase-indicator.active .phase-number {
+  @apply bg-primary text-primary-foreground;
+}
+
+.phase-indicator .phase-number {
+  @apply w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium bg-muted text-muted-foreground;
+}
+
+.connection-status {
+  @apply flex items-center space-x-2 text-sm text-muted-foreground;
+}
+
+.connection-status.connected::before {
+  content: '';
+  @apply w-2 h-2 bg-green-500 rounded-full animate-pulse;
+}
+
+.connection-status.disconnected::before {
+  content: '';
+  @apply w-2 h-2 bg-destructive rounded-full;
+}
+
+.invention-card {
+  @apply game-card p-6 transition-all duration-200;
+}
+
+.invention-card:hover {
+  @apply shadow-md scale-[1.02];
+}
+
+.vote-card {
+  @apply game-card p-4 cursor-pointer transition-all duration-200 border-2;
+}
+
+.vote-card:hover {
+  @apply border-primary shadow-md;
+}
+
+.vote-card.selected {
+  @apply border-primary bg-primary/5;
+}
+
+.vote-card.disabled {
+  @apply opacity-50 cursor-not-allowed bg-muted/50;
+}
+
+.results-winner {
+  @apply game-card p-8 bg-gradient-to-br from-accent/10 to-green-500/10 border-2 border-accent/20;
+}
+
+.toast-enter {
+  @apply transform transition-all duration-300 translate-x-full;
+}
+
+.toast-enter-active {
+  @apply translate-x-0;
+}
+
+.toast-exit {
+  @apply transform transition-all duration-300 translate-x-0;
+}
+
+.toast-exit-active {
+  @apply translate-x-full;
+}
+
+/* Loading animations */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-spinner {
+  @apply w-8 h-8 border-4 border-primary border-t-transparent rounded-full;
+  animation: spin 1s linear infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .game-card {
+    @apply rounded-xl;
+  }
+  
+  .invention-card {
+    @apply p-4;
+  }
+  
+  .results-winner {
+    @apply p-6;
+  }
+}

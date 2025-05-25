@@ -1,0 +1,31 @@
+Okay, based on the previous review and the provided analysis, here's a rundown of what you should consider doing next, categorized by priority:
+
+High-Priority Next Steps:
+
+Strengthen WebSocket Connection Management & Reliability: This was a key point in the analysis.
+Robust Message Sending: In Teacher.tsx and Student.tsx, the pattern of calling connect() followed by a setTimeout before sendMessage is fragile. If the WebSocket connection takes longer than the timeout to establish, messages can be lost.
+Recommendation: Modify use-simple-websocket.ts (which seems to be the active WebSocket hook) to ensure messages are only sent when the connection is truly open. The connect function already returns a Promise; ensure you await this promise or use a callback mechanism after onopen fires before attempting to send messages that depend on an active connection (like create_room or join_room). The existing messageQueue in use-simple-websocket.ts is a good start; ensure it reliably flushes after connection.
+Server-Side WebSocket Error Handling: Review server/routes.ts. Ensure all critical WebSocket operations (like ws.send(), message parsing) are robustly wrapped in try...catch blocks to prevent unhandled exceptions from crashing individual WebSocket connections or affecting the server.
+Refine Client-Side State Initialization:
+Teacher Mode in Teacher.tsx: Currently, setTeacherMode(true) is called directly within a useState initializer.
+Recommendation: For better clarity and adherence to React idioms, move setTeacherMode(true) into a useEffect hook with an empty dependency array ([]) in Teacher.tsx. This ensures it runs once when the component mounts and clearly separates global state side effects from component initialization logic.
+Code Cleanup & Simplification:
+Remove Unused Dependencies: Review your package.json. Dependencies like express-session, connect-pg-simple, memorystore, passport, and passport-local were noted as potentially unused in the core server logic. If they are not planned for immediate use, remove them to simplify the project.
+Remove Old Server Files: Files like server/working-server.js and server/simple-server.ts seem to be older versions or alternative setups. If server/index.ts and server/routes.ts are the active server logic, consider removing the unused ones to avoid confusion.
+Medium-Priority Next Steps:
+
+Enhance Server-Side Logic (Future Considerations):
+Teacher Disconnection: Consider how the game state should be managed if a teacher disconnects (e.g., pause game, notify students). While noted as an MVP limitation, planning for this will improve robustness.
+Testing and Refinement:
+Thoroughly test the entire game flow, paying close attention to WebSocket stability, message delivery, and state consistency across all game phases and user roles.
+Test edge cases, such as rapid reconnections, slow network conditions (if possible to simulate), and unexpected client-side actions.
+Verify that data is correctly reset on the client-side during a new_round_started event as intended.
+Low-Priority / Future Considerations (Post-MVP):
+
+Implement Out-of-Scope MVP Features:
+Once the current MVP is stable, you can start looking at features listed as out-of-scope in your project goals, such as the drawing canvas for inventions (you have a DrawingCanvas.tsx component, so integrating it fully could be next), different voting token types, or timers for phases.
+Database Integration:
+Transition from MemStorage to a persistent database solution using Drizzle ORM as planned (drizzle.config.ts, shared/schema.ts). This will allow data persistence across server restarts.
+Advanced UI/UX:
+Further enhance UI styling, add animations, or sound effects as mentioned in the "Out of Scope for this MVP" section of your project goals.
+By focusing on the high-priority items first, especially WebSocket reliability, you'll ensure a more stable and robust foundation for your application.

@@ -1,0 +1,109 @@
+Project Goal:
+Create a web-based Minimum Viable Product (MVP) for a classroom game called "Innovation Station: Classroom Edition." This game is inspired by the Jackbox game "Patently Stupid."
+
+Core Game Loop:
+
+Problem Setup: The teacher defines a "problem" for the students to solve.
+
+Invention Phase: Students individually invent a solution to the problem. For this MVP, inventions will be described using text only.
+
+Pitch Phase: The teacher facilitates as each student's invention is displayed on a main screen, and the student orally pitches their idea.
+
+Voting Phase: Students vote for their favorite invention (not their own).
+
+Results Phase: The invention(s) with the most votes are displayed.
+
+User Roles & Views:
+
+A. Teacher/Main Screen View (Host): This view will be displayed on a projector or main classroom screen, controlled by the teacher.
+
+Functionality:
+
+Create Game Room: Generate a unique room code for students to join.
+
+Enter Problem: Input the "problem" for the current round. This problem should be broadcast to all connected students.
+
+Display Inventions: Sequentially display each submitted student invention (Name, Tagline, Description) to facilitate the oral "pitch" phase. Teacher should be able to manually advance to the next invention.
+
+Initiate Voting: Signal to student devices that it's time to vote.
+
+Display Results: Show the name of the winning invention(s) and the number of votes received.
+
+B. Student View (Player): This view will be accessed by students on their Chromebooks or other devices.
+
+Functionality:
+
+Join Game Room: Enter a room code provided by the teacher to connect to the game session. Students should be able to enter a nickname.
+
+View Problem: Display the "problem" for the round as entered by the teacher.
+
+Submit Invention: Provide input fields for:
+
+Invention Name (text input)
+
+Tagline (text input, short)
+
+Brief Description of Invention (textarea, explaining what it is and how it solves the problem – text only for MVP).
+
+Voting Interface:
+
+Once pitching is complete and voting is initiated by the teacher, display a list of all submitted invention names (and perhaps their creators' nicknames).
+
+Allow the student to select ONE invention to vote for. Students should not be able to vote for their own invention.
+
+View Winner (Optional for MVP on student screen): Optionally, display the winning invention on the student screen after results are shown on the main screen.
+
+MVP Technical Requirements:
+
+Frontend: HTML, CSS, and Vanilla JavaScript. Keep styling minimal and functional for the MVP.
+
+Backend: A simple Node.js backend (e.g., using Express.js) suitable for a Replit environment.
+
+Real-time Communication: Implement basic real-time communication (e.g., using WebSockets, or a library like Socket.IO if simpler for the AI to implement quickly) for:
+
+Broadcasting the problem from teacher to students.
+
+Sending student invention submissions to the backend/teacher view.
+
+Notifying students when it's time to vote.
+
+Sending votes to the backend.
+
+Broadcasting results.
+
+State Management:
+
+The backend should manage the state for each game room (e.g., list of players, submitted problem, submitted inventions, votes).
+
+No database is required for this MVP; in-memory storage for the active game session is sufficient.
+
+Key MVP Features to Implement (Summary):
+
+Room System: Teacher creates a room, students join with a code and nickname.
+
+Problem Handling: Teacher submits a problem, students see it.
+
+Invention Submission (Text-Only): Students submit invention name, tagline, and description.
+
+Pitch Facilitation: Teacher view can cycle through and display submitted inventions.
+
+Voting: Students can vote for one invention (not their own).
+
+Results Display: Teacher view shows the winner(s).
+
+Out of Scope for this MVP (Consider as Future Features):
+
+Drawing canvas for inventions.
+
+Multiple types or categories of voting tokens (e.g., "Funniest," "Most Creative").
+
+Direct integration of "Know & Love" personality type mechanics.
+
+User accounts or persistent data across sessions.
+
+Advanced UI styling, animations, or sound effects.
+
+Timers for phases.
+
+Instructions for the AI:
+Please generate the necessary HTML, CSS, and JavaScript files for the frontend (both teacher/main view and student view), and the Node.js (Express.js with WebSockets if possible) code for the backend. Provide clear separation of files and include comments explaining the core logic, especially around the real-time communication and state management for a single game round. Structure the project so it can be easily run on Replit.
